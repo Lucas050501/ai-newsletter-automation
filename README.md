@@ -59,8 +59,8 @@ The script reads unread emails with specific subject codes such as `IN1`, `PR2`,
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Lucas050501/ai-newsletter-automation.git
+cd ai-newsletter-automation
 ```
 
 ### 2. Create and activate a virtual environment
