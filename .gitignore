@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+token.json
+google_client_secret.json
+*.pem
+*.key
+
+# Local outputs
+output_files/
+temp_screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db

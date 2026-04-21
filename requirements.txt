@@ -1,0 +1,11 @@
+openai
+anthropic
+loguru
+google-cloud-vision
+google-api-python-client
+google-auth
+google-auth-oauthlib
+selenium
+fpdf2
+pyperclip
+python-telegram-bot
