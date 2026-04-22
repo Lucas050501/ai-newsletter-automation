@@ -29,6 +29,9 @@ The pipeline:
 
 ```text
 .
+├── examples/
+│   ├── example_summary_report.pdf
+│   └── example_beehiiv_javascript.pdf
 ├── src/
 │   ├── main.py
 │   ├── config.py
@@ -39,10 +42,9 @@ The pipeline:
 │   ├── ocr_processing.py
 │   ├── pdf_generator.py
 │   └── beehiiv_renderer.py
-├── fonts/
-├── output_files/
 ├── .env.example
 ├── .gitignore
+├── README.md
 └── requirements.txt
 ```
 
@@ -111,6 +113,13 @@ From the project root:
 ```bash
 python src/main.py
 ```
+
+## Example outputs
+
+Sample generated outputs are included in the `examplary_outputs/` folder:
+- `example_summary_report.pdf`
+- `example_beehiiv_javascript.pdf`
+
 
 ## Notes
 - This repository is a cleaned portfolio version of the project.
