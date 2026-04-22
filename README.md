@@ -29,7 +29,7 @@ The pipeline:
 
 ```text
 .
-├── examples/
+├── exemplary_outputs/
 │   ├── example_summary_report.pdf
 │   └── example_beehiiv_javascript.pdf
 ├── src/
@@ -116,7 +116,7 @@ python src/main.py
 
 ## Example outputs
 
-Sample generated outputs are included in the `examplary_outputs/` folder:
+Sample generated outputs are included in the `exemplary_outputs/` folder:
 - `example_summary_report.pdf`
 - `example_beehiiv_javascript.pdf`
 
